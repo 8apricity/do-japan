@@ -1,0 +1,47 @@
+{
+  "filename": "do-japan.mp4",
+  "bytes": 179837680,
+  "sha256": "3d2373c93d763c1f0aac471db9cacf26987ad14e6088214f66bdcd3d23722dca",
+  "parts": [
+    {
+      "file": "do-japan.mp4.001.part",
+      "bytes": 25165824,
+      "sha256": "566a051353e17514adad6379e87642429f408e323c00c5ace152105e8fe8a522"
+    },
+    {
+      "file": "do-japan.mp4.002.part",
+      "bytes": 25165824,
+      "sha256": "347b79c64cf0f812f7fc7d1cb65c1e28e193e0ef19b7d2ab11005d893e0b6af7"
+    },
+    {
+      "file": "do-japan.mp4.003.part",
+      "bytes": 25165824,
+      "sha256": "b7f70a0e6c82363bb82b1619fc6248e40a362392c90d136b3933a73209575633"
+    },
+    {
+      "file": "do-japan.mp4.004.part",
+      "bytes": 25165824,
+      "sha256": "6c7e7d599ca6d9e903c22758e423ec2af5579a216b9429235a324ec1da340b96"
+    },
+    {
+      "file": "do-japan.mp4.005.part",
+      "bytes": 25165824,
+      "sha256": "0a3681e7e621f10e1a581d29f43eecba7e1be2f2ba4a4c9b7afc8cc5cd2d2707"
+    },
+    {
+      "file": "do-japan.mp4.006.part",
+      "bytes": 25165824,
+      "sha256": "ed808fd69b567454da9c9b143de6720755b47469a74088b2bc02252715a324c4"
+    },
+    {
+      "file": "do-japan.mp4.007.part",
+      "bytes": 25165824,
+      "sha256": "de901ccadabc660199adceac066ba0d02637601fd14640de502e9888cd09a2e4"
+    },
+    {
+      "file": "do-japan.mp4.008.part",
+      "bytes": 3676912,
+      "sha256": "a58c7c08b325fe2c05876c569dfc3fe61e1dd2ebf88392cba1e90878c59fd57c"
+    }
+  ]
+}
